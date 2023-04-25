@@ -7,9 +7,9 @@ SETUP STAGE - You can DIY your game pattern on the setup page. Click on one part
 
 You need to control your own spaceship to activate mines and defeat all robotic spaceships (Abbrev. as robot below) to win. Move your spaceship to the mines to activate them. Activated mines will change their form and become your friend to defeat robots. Robots will be destroyed if they crash to the mines your activated. But pay attention: robotic spaceships tend to eat those unactivated mines and hunt your spaceship. If your spaceship get caught by a robot, your spaceship will be destroyed.
 
-WIN - defeat all robots and survive
-LOSE - being defeated by robots
-DRAW - other circumstances
+WIN - defeat all robots and survive.
+LOSE - being defeated by robots.
+DRAW - other circumstances.
 
 Have Fun!
 
