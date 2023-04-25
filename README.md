@@ -1,5 +1,3 @@
-# An-Web-based-Spaceship-Keyboard-Game-Practice-written-in-JavaScript
-
 This is a web-based keyboard game practice written in original JavaScript and css.
 Simply download "game.html" and open it locally with your browser to play!
 
