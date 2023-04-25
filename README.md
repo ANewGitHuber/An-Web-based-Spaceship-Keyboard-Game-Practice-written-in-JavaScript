@@ -1,7 +1,7 @@
 # An-Web-based-Spaceship-Keyboard-Game-Practice-written-in-JavaScript
 
 This is a web-based keyboard game practice written in original JavaScript and css.
-Simply download "game.html" and open it locally to have fun!
+Simply download "game.html" and open it locally with your browser to play!
 
 SETUP STAGE - You can DIY your game pattern on the setup page. Click on one particular keyboard cell to select, then press "A"(Asteroid), "M"(Mine), "R"(Robotic Spaceship), "U"(Your Spaceship) to place the item you want in the keyboard. There is no limit in the number of asteroids, mines or robotic spaceship, but you should only have one user spaceship to control. When all is ready, press "End Setup" on the right-top corner to start the game!
 
