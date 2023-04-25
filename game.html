@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang='en-GB'>
+
+<head>
+    <title>Assignment 2: JavaScript</title>
+    <style type="text/css">
+        @import url("game.css");
+    </style>
+</head>
+
+<body>
+<div class="header">
+    <h1>Welcome to the Spaceship Game!</h1>
+</div>
+
+<div class="topnav">
+    <a href="#"><button id="restartButton" onclick="Restart()">Restart</button></a>
+    <a href="#"><button id="startButton" onclick="Play()">End Setup</button></a>
+    <a href="#"><button id="endButton" onclick="End()">End game</button></a>
+</div>
+
+<br>
+
+<h2 id="stageHeader">Setup Stage</h2>
+
+<div style="display: flex;height: 100%;">
+    <div style="background-color: gray;flex: 1;">
+        <br>
+        <h2 id = introduction>Introduction</h2>
+        <div id = introContent0> Click to select a cell and</div><br>
+        <div id = introContent1> Press A to place asteroids</div><img id='Asteroid' src=img/Asteroid.png><br>
+        <div id = introContent2> Press M to place mines</div><img id='Mine' src=img/Mine.png><br>
+        <div id = introContent3> Press R click to place robotic spaceships</div><img id='RoboticSpaceship' src=img/RoboticSpaceship.png><br>
+        <div id = introContent4> Press U click to place your own spaceship</div><img id='UserSpaceship' src="img/UserSpaceship.png"><br>
+        <br>
+        <h3 id = introContent5> Press "End setup" button to start the game when you are ready!</h3>
+        <br>
+    </div>
+    <div style="background-color: lightslategray; width: 60%">
+        <br>
+        <table id="table"></table>
+        <br>
+    </div>
+    <div style="background-color: gray;flex: 1;">
+        <br>
+        <h2 id =messageBoard> Message Board</h2>
+        <div id="message1"></div> <br>
+        <div id="message2"></div> <br>
+        <div id="status"></div> <br>
+        <div id="results"></div> <br>
+        <br>
+    </div>
+</div>
+
+<script src="game.js"></script>
+</body>
+
+</html>
