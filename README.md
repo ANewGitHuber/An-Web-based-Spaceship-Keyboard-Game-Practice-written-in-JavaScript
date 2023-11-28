@@ -11,4 +11,4 @@ DRAW - other circumstances.
 
 Have Fun!
 
-#This game is originated by @JohnChen in 28th April, 2022. All rights to the source codes are reserved.
+#This game is originated by @JohnChen in 28th April, 2022. All rights to source codes are reserved.
